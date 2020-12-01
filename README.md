@@ -1,1 +1,2 @@
-# cash-split
+# CBFriendsCost
+CB Project
